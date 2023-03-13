@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Improve Coral Edge TPU guide (#8160)
