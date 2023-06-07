@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
