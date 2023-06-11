@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+YOLOv8 INT8 TFLite Inference Example (#7317)
