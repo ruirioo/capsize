@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add plot_images conf_thresh parameter (#8446)
