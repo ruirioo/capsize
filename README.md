@@ -1,1 +1,1 @@
-fix non-coco val
+Expand Model method type hinting (#8279)
