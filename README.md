@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
