@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
