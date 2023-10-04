@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add Neural Magic Docs integrations page (#7234)
