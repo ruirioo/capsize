@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
