@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
