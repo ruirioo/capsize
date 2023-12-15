@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
