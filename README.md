@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Clarify triton server boolean value (#8532)
