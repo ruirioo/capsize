@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Remove unused variables (#8511)
