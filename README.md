@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
