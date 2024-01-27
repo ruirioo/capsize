@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
