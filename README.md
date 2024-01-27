@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
