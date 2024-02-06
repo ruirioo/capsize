@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Improve Docs arguments tables (#8415)
