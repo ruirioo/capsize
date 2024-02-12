@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
