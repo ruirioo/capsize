@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.0.229 add model.embed() method (#7098)
