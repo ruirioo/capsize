@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add missing single-line docstrings (#8362)
