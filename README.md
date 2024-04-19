@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
