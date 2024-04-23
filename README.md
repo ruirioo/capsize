@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Update docs building code (#7601)
