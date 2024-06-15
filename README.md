@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.0.228 add training time argument (#7054)
