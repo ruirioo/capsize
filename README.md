@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
