@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Allow Annotator PIL.Image inputs (#8397)
