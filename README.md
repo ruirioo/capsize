@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
