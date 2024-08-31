@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
