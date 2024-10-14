@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update the heatmap module code + docs (#7045)
