@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Bounding Box to OBB conversion (#7572)
